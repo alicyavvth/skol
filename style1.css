@@ -1,0 +1,25 @@
+*{
+padding:0px;
+text-align: center;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2015/10/04/21/47/beer-971955_1280.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+/* para cobrir a tela toda  */
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 27px;
+    padding: 3%;
+}
+
+p{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: aliceblue;
+padding: 5%;
+
+}

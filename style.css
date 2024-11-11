@@ -1,0 +1,38 @@
+body{
+    background-image : url(https://static.paodeacucar.com/img/uploads/1/696/23725696.jpg);
+    background-repeat: no-repeat;
+background-size: 70vw 100vh;
+    
+padding:10px;
+margin: 0;
+
+}
+ 
+button{
+    color: rgb(252, 187, 46);
+    background-color: rgb(112, 7, 7);
+border-radius: 10px;
+font-size: 15px;
+padding: 6px;
+margin:10px ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input{
+    border-radius: 20px;
+    
+}
+
+
+    
+
+
